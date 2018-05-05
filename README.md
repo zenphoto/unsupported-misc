@@ -1,34 +1,17 @@
-Unsupported Zenphoto scripts archive
-===========
-Many of these are third party, older and have been abandoned by their original developers. Please remember that these scripts are provided for your use and education but are not supported and maintained by the Zenphoto team. This is an This is true even if a team member originally created them. They may not work correctly with current Zenphoto versions.
+# Unsupported miscellaneous Zenphoto scripts 
 
-We of course welcome any contribution or even taking over a certain theme: http://www.zenphoto.org/news/general-contributor-guidelines#providing-themes-and-plugins
+This is an archive of various ZenphotoCMS related tools that technically are not plugins. Some are third party and some formerly official supported ones. 
 
-##License
-Most of the contents is **GPL v2 or later** licensed, e.g. those created by current or former Zenphoto team members. But since there are also third party solutions collected *see each tool for its exact licensing*.
-
-
-Plugins
--------
-
-Plugins are folders found in the `plugins` folder. They would be placed in the `plugins` folder of your installation. 
-
-Note that what should be copied is the content of the folder. This will typically be a PHP script and a like-named folder with other content. The PHP script needs to be in the root of the "plugins" folder.
-
-These plugins are also listed on our site's themes section:
+Readme files or script comments will describe their use and these plugins are also listed on our site's extensions section:
 http://www.zenphoto.org/news/category/extensions
 
-Themes
-------
+Please remember that these scripts are provided for your use and education but are not actively supported and maintained by the ZenphotoCMS team. Many of these scripts are quite old and may not work correctly with current ZenphotoCMS versions.
 
-The folders in the `themes` folder are third party themes. Place the folder and its contents into your installation `themes` folder.
+Although we don't actively support these, we welcome contributions via pull requests or even taking over development. Please read the contributor guidelines: http://www.zenphoto.org/news/general-contributor-guidelines#providing-themes-and-plugins
+##License
+Most of the contents is **GPL v2 or later** licensed, e.g. those created by current or former ZenphotoCMS team members. But since there are also third party solutions collected *please see each tool for its exact licensing*.
 
-These themes are also listed on our site's themes section:
-http://www.zenphoto.org/theme/
 
-Misc
-------
 
-You will find miscellaneous other extensions that do not exactly fit the above categories. Readme files or script comments will describe their use.
 
 
