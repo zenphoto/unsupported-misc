@@ -9,6 +9,9 @@ Please remember that these scripts are provided for your use and education but a
 
 Although we don't actively support these, we welcome contributions via pull requests or even taking over development. Please read the contributor guidelines: http://www.zenphoto.org/news/general-contributor-guidelines#providing-themes-and-plugins
 
+## Usage
+Within each folder you find the tool and either a readme or in-code comments how to use it.
+
 ##License
 Most of the contents is **GPL v2 or later** licensed, e.g. those created by current or former ZenphotoCMS team members. But since there are also third party solutions collected *please see each tool for its exact licensing*.
 
